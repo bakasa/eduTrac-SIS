@@ -1,0 +1,137 @@
+# Translation of Moodle in Portuguese (Brazil)
+# This file is distributed under the same license as the Moodle package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Moodle\n"
+"POT-Creation-Date: 2017-07-10 08:18-0400\n"
+"PO-Revision-Date: 2017-07-10 08:18-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Domain: moodle\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: moodle.class.php:66
+msgid "Moodle Category"
+msgstr ""
+
+#: moodle.plugin.php:27
+msgid ""
+"You must have at least eduTrac SIS release 6.3.0 installed before you can "
+"activate and use the <strong>Moodle</strong> plugin."
+msgstr ""
+
+#: moodle.plugin.php:55
+msgid "Plugin settings were saved successfully."
+msgstr ""
+
+#: moodle.plugin.php:63
+msgid "You are here"
+msgstr "Você está aqui"
+
+#: moodle.plugin.php:64
+msgid "Dashboard"
+msgstr ""
+
+#: moodle.plugin.php:66
+msgid "Plugins"
+msgstr ""
+
+#: moodle.plugin.php:68 moodle.plugin.php:71
+msgid "Moodle Settings"
+msgstr ""
+
+#: moodle.plugin.php:93
+msgid "Moodle API Token"
+msgstr ""
+
+#: moodle.plugin.php:98
+msgid "Moodle URL"
+msgstr ""
+
+#: moodle.plugin.php:103 moodle.plugin.php:204
+msgid "Auth"
+msgstr ""
+
+#: moodle.plugin.php:107
+msgid "No Login"
+msgstr ""
+
+#: moodle.plugin.php:108
+msgid "Manual"
+msgstr ""
+
+#: moodle.plugin.php:114 moodle.plugin.php:240
+msgid "Update Teacher Auth"
+msgstr ""
+
+#: moodle.plugin.php:118 moodle.plugin.php:134 moodle.plugin.php:145
+#: moodle.plugin.php:156
+msgid "Yes"
+msgstr "Sim"
+
+#: moodle.plugin.php:119 moodle.plugin.php:135 moodle.plugin.php:146
+#: moodle.plugin.php:157
+msgid "No"
+msgstr ""
+
+#: moodle.plugin.php:130 moodle.plugin.php:258
+msgid "Update Student Auth"
+msgstr ""
+
+#: moodle.plugin.php:141 moodle.plugin.php:186
+msgid "Unenroll Student"
+msgstr ""
+
+#: moodle.plugin.php:152 moodle.plugin.php:222
+msgid "Secure Passwords"
+msgstr ""
+
+#: moodle.plugin.php:169
+msgid "Submit"
+msgstr ""
+
+#: moodle.plugin.php:190
+msgid ""
+"If a student should be unenrolled from a Moodle course when the student is "
+"either dropped or withdrawn from a course section, set this to \"Yes\"."
+msgstr ""
+
+#: moodle.plugin.php:193 moodle.plugin.php:211 moodle.plugin.php:229
+#: moodle.plugin.php:247 moodle.plugin.php:265
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: moodle.plugin.php:208
+msgid ""
+"If set to No Login, when the user is created in Moodle, the user will not be "
+"able to log in. If you set it to Manual, then when the user is created in "
+"Moodle, the user will be able to log in."
+msgstr ""
+
+#: moodle.plugin.php:226
+msgid ""
+"If you are using a site policy especially in regards to passwords, then set "
+"this to yes. When logged into eduTrac SIS, users can only generate a "
+"password instead of entering a custom password."
+msgstr ""
+
+#: moodle.plugin.php:244
+msgid ""
+"If the Auth setting is set to \"No Login\", the teacher in Moodle will not "
+"be able to log in. Set this to \"Yes\" if the Auth for teacher should be "
+"changed to \"Manual\" when faculty is added to the course section."
+msgstr ""
+
+#: moodle.plugin.php:262
+msgid ""
+"If the Auth setting is set to \"No Login\", the student in Moodle will not "
+"be able to log in. Set this to \"Yes\" if the Auth for student should be "
+"changed to \"Manual\" when applicant is moved to student."
+msgstr ""
