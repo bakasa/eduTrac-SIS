@@ -16,7 +16,7 @@ $list = '"'.implode('","', courseList(_escape($crse->courseID))).'"';
 $screen = 'vcrse';
 ?>
 
-<script src="//cdn.tinymce.com/4/tinymce.min.js"></script>
+<script src="//cdn.tiny.cloud/1/w02wxbjkmqdhw92yugsag8popaw2enx9ktbo29ajd7mji37o/tinymce/5/tinymce.min.js"></script>
 <script src="<?=get_base_url();?>static/assets/plugins/tinymce/plugin.js"></script>
 <script type="text/javascript">
 $(function() {
