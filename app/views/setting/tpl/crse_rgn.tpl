@@ -9,7 +9,7 @@
 <meta name="format-detection" content="address=no">
 <meta name="format-detection" content="email=no">
 <title>{title}</title>
-<link href="http://fonts.googleapis.com/css?family=Noto+Sans:400,700" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700" rel="stylesheet" type="text/css">
 <style type="text/css">
 /**
  * SimpleApp
