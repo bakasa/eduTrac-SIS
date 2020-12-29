@@ -50,6 +50,7 @@ function moodle_do_page()
             if (!isset($app->req->post[$option_name]))
                 continue;
             $value = $app->req->post[$option_name];
+            die(print_r($value));
             update_option($option_name, $value);
         }
         _etsis_flash()->success(_t('Plugin settings were saved successfully.', 'moodle'), $app->req->server['HTTP_REFERER']);
