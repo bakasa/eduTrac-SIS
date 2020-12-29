@@ -86,6 +86,8 @@ class MoodleLMS
      */
     public function create_moodle_category($subject)
     {
+        die(print_r("here"));
+        
         $functionname = 'core_course_create_categories';
         $restformat = 'json';
 
